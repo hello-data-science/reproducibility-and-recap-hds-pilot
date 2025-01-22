@@ -1,4 +1,4 @@
-# explore iris dataset
+# explore iris dataset!
 
 # plot petal length by petal width, colour species
 library(ggplot2)
