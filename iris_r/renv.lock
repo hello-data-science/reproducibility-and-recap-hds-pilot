@@ -354,6 +354,27 @@
       ],
       "Hash": "de949855009e2d4d0e52a844e30617ae"
     },
+    "gtexr": {
+      "Package": "gtexr",
+      "Version": "0.0.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteRepo": "gtexr",
+      "RemoteUsername": "rmgpanw",
+      "RemoteRef": "de1bd5ba2d0f2b1249a4bf9827130d6aac957160",
+      "RemoteSha": "de1bd5ba2d0f2b1249a4bf9827130d6aac957160",
+      "Requirements": [
+        "cli",
+        "dplyr",
+        "httr2",
+        "purrr",
+        "rlang",
+        "tibble",
+        "tidyr"
+      ],
+      "Hash": "ebab57baf481f01246943eb394c7c259"
+    },
     "highr": {
       "Package": "highr",
       "Version": "0.11",
@@ -410,6 +431,27 @@
         "openssl"
       ],
       "Hash": "ac107251d9d9fd72f0ca8049988f1d7f"
+    },
+    "httr2": {
+      "Package": "httr2",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R",
+        "R6",
+        "cli",
+        "curl",
+        "glue",
+        "lifecycle",
+        "magrittr",
+        "openssl",
+        "rappdirs",
+        "rlang",
+        "vctrs",
+        "withr"
+      ],
+      "Hash": "0f14199bbd820a9fca398f2df40994f1"
     },
     "isoband": {
       "Package": "isoband",

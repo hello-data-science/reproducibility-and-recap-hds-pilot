@@ -49,3 +49,5 @@ p <- ggplot(iris, aes(x = Petal.Length, y = Petal.Width, color = Species, text =
 # Convert to plotly
 ggplotly(p, tooltip = "text")
 
+# gtexr
+gtexr::get_gene_search("ARMS2")
